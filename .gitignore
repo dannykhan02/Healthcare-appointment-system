@@ -27,3 +27,4 @@ instance/
 
 # OAuth and authentication config
 oauth_config.py.env
+.env
